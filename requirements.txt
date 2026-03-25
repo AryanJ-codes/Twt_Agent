@@ -1,0 +1,8 @@
+pytrends
+tweepy
+APScheduler
+requests
+python-dateutil
+pytz
+playwright
+asyncio

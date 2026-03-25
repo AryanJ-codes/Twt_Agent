@@ -1,0 +1,12 @@
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+storage/drafts/*.json
+storage/posts/
+storage/topics/
+*.log
+*.sqlite3
+*.db
+.DS_Store

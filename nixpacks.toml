@@ -1,2 +1,2 @@
 [phases.postInstall]
-cmds = ["playwright install --with-deps chromium"]
+cmds = ["/opt/venv/bin/playwright install --with-deps chromium"]
